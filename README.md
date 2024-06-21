@@ -110,7 +110,3 @@ Weather-Check is a simple Node.js backend project that fetches weather data for 
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any bugs or enhancements.
-
-## License
-
-This project is licensed under the MIT License.
